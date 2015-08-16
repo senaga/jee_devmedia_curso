@@ -1,6 +1,0 @@
-#surefire
-#Sun Aug 16 14:49:15 BRT 2015
-maven.ext.class.path=/home/senaga/dev/java/netbeans/netbeans-8.0/java/maven-nblib/netbeans-eventspy.jar
-user.dir=/home/senaga/NetBeansProjects/ConsultorioOdontologicoEEMaven/ConsultorioOdontologicoEEMaven/ConsultorioOdontologicoEEMaven-ejb
-localRepository=/home/senaga/.m2/repository
-basedir=/home/senaga/NetBeansProjects/ConsultorioOdontologicoEEMaven/ConsultorioOdontologicoEEMaven/ConsultorioOdontologicoEEMaven-ejb
